@@ -2,7 +2,7 @@
 - 👀 I’m interested in serving Sanskrit.
 - 🌱 I’m currently learning Sanskrit.
 - 💞️ I’m looking to collaborate on Sanskrit projects.
-- 📫 Reach me on https:sanskrit.org.in
+- 📫 Reach me on https://sanskrit.org.in
 
 <!---
 sanskrit-seva/sanskrit-seva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
