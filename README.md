@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanskrit-seva
 - 👀 I’m interested in serving Sanskrit Appropriate Natural Solutions, Knowledge, Research, Innovations and Technologies SANSKRIT 
-- 🌱 I’m currently serving sanskrit.org.in.
+- 🌱 I’m currently developing sanskrit.org.in.
 - 💞️ I’m looking to collaborate on Sanskrit projects.
 - 📫 Reach me on https://sanskrit.org.in
 
